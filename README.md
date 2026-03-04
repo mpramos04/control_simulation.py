@@ -11,9 +11,3 @@ This project simulates a first-order dynamic system and analyzes its step respon
 - Python
 - NumPy
 - Matplotlib
-
-## Engineering Context
-This simulation represents a simplified industrial process such as:
-- Tank level control
-- Thermal systems
-- Flow systems
